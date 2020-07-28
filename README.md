@@ -1,5 +1,7 @@
 # README
 
+Just some personal project trying out practicing functional components for react.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
